@@ -1,6 +1,6 @@
 import React, { useState,useEffect  } from "react";
 import { useParams,useNavigate } from 'react-router-dom';
-import { BrowserRouter as Router, Route, Link, Routes,Navigate } from "react-router-dom";
+import { BrowserRouter as  Link, Routes } from "react-router-dom";
 
 import './App.css';
 import "./styles.css";
